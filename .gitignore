@@ -3,4 +3,9 @@ __pycache__
 myvenv
 db.sqlite3
 /static
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+>>>>>>> a74660a774e9a79ba4407dcd6787902116e1cca9
